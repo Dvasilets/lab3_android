@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="Name">Name</string>
+    <string name="Take_a_pic" >Take a pic!</string>
+</resources>
